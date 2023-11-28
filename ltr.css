@@ -1,0 +1,15 @@
+.top-bar,.header{
+    direction: ltr;
+}
+.daneshyar-navigation .menu > ul > li ul, .daneshyar-navigation ul.menu > li ul,ul.menu .daneshyar-megamenu-wrapper{
+    left: 0;
+}
+.daneshyar-navigation .menu > ul > li ul li > ul, .daneshyar-navigation ul.menu > li ul li > ul{
+    left: 100%;
+}
+.daneshyar-navigation .menu > ul > li ul li > ul, .daneshyar-navigation ul.menu > li ul li > ul{
+    right: 100%;
+}
+.video_wrapper{
+    flex-direction: row-reverse;
+}
